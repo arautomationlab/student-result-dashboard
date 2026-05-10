@@ -1,6 +1,6 @@
 ## Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](Screenshot4.png)
 
 ## Topper Analysis
 
