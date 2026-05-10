@@ -4,4 +4,4 @@
 
 ## Topper Analysis
 
-![Topper Analysis](Screenshot 5.png)
+![Topper Analysis](Screenshot5.png)
